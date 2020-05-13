@@ -5,7 +5,7 @@ I studied Mechanical Engineering at Purdue University, and am currently
 employed as a D&R Engineer at Ford Motor Company.
 
 In the past I have worked as a Design Engineer at Molex and high performance
-exhaust development at [GTHAUS](https://www.youtube.com/watch?v=3U2zfUAg8T0) .
+exhaust development at [GTHAUS](http://google.com) .
 
 ###Personal Projects / Interests
 1. Automotive
