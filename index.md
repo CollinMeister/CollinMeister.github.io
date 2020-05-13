@@ -4,7 +4,7 @@
 I'm a Mechanical Engineering living in the greater Detroit area. I studied Mechanical Engineering at Purdue University, and am currently working as a D&R Engineer at Ford Motor Company on the Mustang.
 
 In the past I have worked as a 5G / PCI-E Gen 5 Design Engineer at Molex, and high performance
-exhaust development at [GTHAUS](http://google.com) .
+exhaust development at [GTHAUS](https://www.youtube.com/watch?v=3U2zfUAg8T0) .
 
 ### Personal Projects / Interests
 1. Automotive
