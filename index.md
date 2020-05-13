@@ -6,7 +6,7 @@ I'm a Mechanical Engineering living in the greater Detroit area. I studied Mecha
 In the past I have worked as a 5G / PCI-E Gen 5 Design Engineer at Molex, and high performance
 exhaust development at [GTHAUS](http://google.com) .
 
-###Personal Projects / Interests
+### Personal Projects / Interests
 1. Automotive
   Lifelong interest in vehicle performance, tuning, and maintenance
 2. Fabrication
@@ -14,4 +14,5 @@ exhaust development at [GTHAUS](http://google.com) .
 
 3. Software Shenanigans
   Personal Website
+
   Minecraft FEA
